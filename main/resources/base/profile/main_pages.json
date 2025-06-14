@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/TechHome",
+    "pages/Index",
+    "pages/login/LoginPage",
+    "pages/login/SignInPage"
+  ]
+}
